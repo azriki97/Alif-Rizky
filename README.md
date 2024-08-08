@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azriki97" alt="azriki97" /></a> </p>
 
-- 🔭 I’m currently Intern as [(Semi)Full-stack Web](Private)
+- 🔭 I’m currently Intern as (Semi)Full-stack Web
 
 - 🌱 I’m currently learning more **featured UI/UX and Front-End**
 
